@@ -1,0 +1,10 @@
+__pycache__
+.idea/
+*.pyc
+db.sqlite3
+db.sqlite
+virtualenv/*
+env/*
+whoosh_index/
+celerybeat-schedule
+celerybeat.pid
